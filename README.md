@@ -3,7 +3,7 @@
 
 - 🔭 Busco minha primeira oportunidade de trabalho.
 - 🌱 Estudante de Engenharia da Computação - 2º semestre/ Faculdade Impacta.
-- 🤓 Tenho interesse em back-end.
+- 🤓 Tenho interesse em back-end e engenharia de software.
 
  <div>
   <a href="https://github.com/Cabrauzz">

@@ -2,7 +2,7 @@
 
 
 - 🔭 Busco minha primeira oportunidade de trabalho.
-- 🌱 Estudante de Engenharia da Computação - 2º semestre/ Faculdade Impacta.
+- 🌱 Estudante de Engenharia da Computação - 3º semestre/ Faculdade Impacta.
 - 🤓 Tenho interesse em back-end e engenharia de software.
 
  <div>

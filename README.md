@@ -2,7 +2,7 @@
 
 
 - 🔭 Busco minha primeira oportunidade na área de tecnologia.
-- 🌱 Estudante de Engenharia da Computação - 4º semestre/ Faculdade Impacta.
+- 🌱 Estudante de Engenharia da Computação  4º semestre/ Faculdade Impacta.
 - 🤓 Tenho interesse em desenvolvimento e engenharia de software.
 
  <div>

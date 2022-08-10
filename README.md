@@ -3,7 +3,7 @@
 
 - 🔭 Busco minha primeira oportunidade na área de tecnologia.
 - 🌱 Estudante de Engenharia da Computação  4º semestre/ Faculdade Impacta.
-- 🤓 Tenho interesse em desenvolvimento e engenharia de software.
+- 🤓 Tenho interesse em Desenvolvimento Front end e Engenharia de software.
 
  <div>
   <a href="https://github.com/Cabrauzz">

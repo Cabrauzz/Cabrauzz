@@ -21,7 +21,7 @@
   <img align="center" alt= "Vitor-Java" height="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt= "Vitor-Docker" height="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt= "Vitor-Git" height="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  
+  <img align="center" alt= "Vitor-VisualStudioCode" height="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudiocode/visualstudiocode-original.svg">
 </div>
   
 <div>

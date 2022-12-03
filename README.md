@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Vitor Cabral!
 
 
-- 🔭 Busco minha primeira oportunidade na área de tecnologia.
+- 🔭 Engenharia
 - 🌱 Estudante de Engenharia da Computação  4º semestre/ Faculdade Impacta.
 - 🤓 Tenho interesse em Desenvolvimento Front end e Back end e Engenharia de software.
 

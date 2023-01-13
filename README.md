@@ -6,9 +6,12 @@
 - 🤓 Tenho interesse em Desenvolvimento Front end e Back end e Engenharia de software.
 
  <div>
-  <a href="https://github.com/Cabrauzz">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cabrauzz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cabrauzz&layout=compact&langs_count=7&theme=dracula"/>
+<a href="https://github.com/Cabrauz/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cabrauzz&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/Cabrauzz/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Cabrauzz&repo=convoychat" />
+</a>
 
 </div>
 <div style="display: inline_block"><br>

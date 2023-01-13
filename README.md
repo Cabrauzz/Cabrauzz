@@ -2,13 +2,13 @@
 
 
 - 🔭 Engenharia
-- 🌱 Estudante de Engenharia da Computação  4º semestre/ Faculdade Impacta.
-- 🤓 Tenho interesse em Desenvolvimento Front end e Back end e Engenharia de software.
+- 🌱 Estudante de Engenharia da Computação  5º semestre/ Faculdade Impacta.
+- 🤓 Tenho interesse em Desenvolvimento, Engenharia de software e Master in Project Management.
 
  <div>
   <a href="https://github.com/Cabrauzz">
   <img height="180cm" src= "https://github-readme-stats.vercel.app/api?username=Cabrauzz&show_icons=true&theme=dracula"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cabrauzz&layout=compact"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cabrauzz&layout=compact&show_icons=true&theme=dracula"/>
 </a>
 
 </div>

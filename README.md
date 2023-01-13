@@ -10,7 +10,9 @@
   
   <img height="180cm" src= "https://github-readme-stats.vercel.app/api?username=Cabrauzz&show_icons=true&theme=dracula"/>
   
-  <img height="180cm" src="(https://github-readme-stats.vercel.app/api/wakatime?username=Cabrauzz)](https://github.com/Cabrauzz/github-readme-stats)"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/wakatime?username=Cabrauzz"/>
+   
+  <img height="180cm" src="https://github.com/Cabrauzz/github-readme-stats"/>
   
 
 </a>

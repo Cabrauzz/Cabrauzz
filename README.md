@@ -3,7 +3,7 @@
 
 - 🔭 Engenharia
 - 🌱 Estudante de Engenharia da Computação  5º semestre/ Faculdade Impacta.
-- 🤓 Tenho interesse em Desenvolvimento, Engenharia de software e Master in Project Management.
+- 🤓 Tenho interesse em Desenvolvimento Back-end, Engenharia de software e Master in Project Management.
 
  <div>
   <a href="https://github.com/Cabrauzz">

@@ -2,7 +2,7 @@
 
 
 - 🔭 Engenharia
-- 🌱 Estudante de Engenharia da Computação  5º semestre/ Faculdade Impacta.
+- 🌱 Estudante de Engenharia da Computação Faculdade Impacta.
 - 🤓 Tenho interesse em Desenvolvimento Back-end, Engenharia de software.
 
  <div>

@@ -3,7 +3,7 @@
 
 - 🔭 Engenharia
 - 🌱 Estudante de Engenharia da Computação Faculdade Impacta.
-- 🤓 Tenho interesse em Desenvolvimento Back-end, Engenharia de software.
+- 🤓 Tenho interesse em Desenvolvimento Back-end, Engenharia de Softwarw.
 
  <div>
   <a href="https://github.com/Cabrauzz">

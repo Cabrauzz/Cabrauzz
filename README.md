@@ -23,17 +23,11 @@
   <img align="center" alt= "Vitor-Git" height="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 
 </div>
-  
 <div>
-  
   ##
-  
 </div>
-
 <div>
  <a href="https://www.linkedin.com/in/vitor-cabral-da-silva-4569b8203/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
-
 </div>
- ![snake gif](https://github.com/Cabrauzz/Cabrauzz/blob/output/github-contribution-grid-snake.svg)
+
 

@@ -3,7 +3,7 @@
 
 - 🔭 Engenharia
 - 🌱 Engenharia da Computação.
-- 🤓 Tenho interesse em Desenvolvimento Back-end, Engenharia de Softwarw.
+- 🤓 Tenho interesse em Desenvolvimento Back-end, Engenharia de Software.
 
  <div>
   <a href="https://github.com/">
